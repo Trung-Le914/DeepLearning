@@ -1,1 +1,1 @@
-
+The aim of this project is to build a pipeline in order to classify a message whether spam or not. Instead of using the traditional Naive Bayes, we convert each message to be a representative vector. With the library FAISS from MetaAI, we can easily classify the message by compare it to the closest message from a unified database. 
